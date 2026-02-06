@@ -1,34 +1,64 @@
-# Olá, eu sou o Cláudio Roberto !
-## Desenvolvedor Full-Stack-Jr 
-Jovem apaixonado por tecnologia e desenvolvimento de software, sempre em busca de melhorar meus conhecimentos. Gosto muito de ajudar o próximo !
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Cl%C3%A1udio+Roberto!;Full+Stack+Developer;+Security+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+</h1>
 
-<div>
+<p align="center">
   <a href="https://github.com/claudioreissilveira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudioreissilveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"&text_color=ffffff"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioreissilveira&layout=compact&langs_count=16&theme=dark"&text_color=ffffff"/>
+    <img src="https://komarev.com/ghpvc/?username=claudioreissilveira&label=Profile%20Views&color=0e75b6&style=flat" alt="claudioreissilveira" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Full Stack & Cybersecurity</b><br/>
+  Desenvolvo soluções com foco absoluto em segurança e escalabilidade. Movido pela curiosidade técnica, busco evolução constante para transformar desafios complexos em experiências robustas e de alta performance.
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/claudioreissilveira/claudioreissilveira/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+---
+
+<h3 align="center">💻 Tech Stack & Ferramentas</h3>
+
+<div align="center">
+  <img align="center" alt="React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="NextJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Tailwind" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Swift" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+  <img align="center" alt="Kotlin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  
+  <br/>
+  <br/>
+
+  <img align="center" alt="NodeJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Claudio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Claudio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Claudio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Claudio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Claudio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Claudio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Claudio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Claudio-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Claudio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Claudio-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="center" alt="Claudio-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+<br/>
+
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/claudio-roberto-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a> 
+  <a href="https://instagram.com/claudiorgrs_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:claudiorobertogrs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+   <a href="https://www.youtube.com/@claudao.1" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
+  </a>
 </div>
-
-##
-
-<div> 
-  <a href="https://www.youtube.com/@claudao.1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/claudiorgrs_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:claudiorobertogrs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cl%C3%A1udio-roberto-595186281/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-
