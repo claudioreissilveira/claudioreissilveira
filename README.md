@@ -8,13 +8,11 @@
   </a>
 </p>
 
-<p align="center">
-  <b>Full Stack & Cybersecurity</b><br/>
+<div align="center">
+  <h3>Full Stack & Cybersecurity</h3>
+  <br/>
   Desenvolvo soluções com foco absoluto em segurança e escalabilidade. Movido pela curiosidade técnica, busco evolução constante para transformar desafios complexos em experiências robustas e de alta performance.
-
-</p>
-
----
+</div>
 
 <p align="center">
   <img src="https://github.com/claudioreissilveira/claudioreissilveira/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
