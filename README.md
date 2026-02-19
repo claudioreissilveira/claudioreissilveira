@@ -44,15 +44,15 @@ Sou um Desenvolvedor com foco na convergência entre escalabilidade e segurança
 
 ### Tools
 
-[![Development Tools](https://skillicons.dev/icons?i=postman,git,github,figma,vercel,windows,vscode,idea,pycharm,npm,pnpm,bash)](https://github.com/claudioreissilveira)
+[![Development Tools](https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github,bash,windows,npm,pnpm,vercel,postman,figma)](https://github.com/claudioreissilveira)
 
 ### Back-end
 
-[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,laravel,python,typescript,prisma,cs)](https://github.com/claudioreissilveira)
+[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,typescript,prisma,cs,python,laravel)](https://github.com/claudioreissilveira)
 
 ### Front-end
 
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next,vite,tailwind,bootstrap)](https://github.com/claudioreissilveira)
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,vite)](https://github.com/claudioreissilveira)
 
 ### Database
 
