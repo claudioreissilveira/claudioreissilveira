@@ -3,9 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */12 * * *" 
-  
   workflow_dispatch:
-  
   push:
     branches:
     - master
@@ -25,6 +23,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#a855f7&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&bg_color=#000000
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#a855f7&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&bg_color=#000000
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
